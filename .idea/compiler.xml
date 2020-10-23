@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-01-SpringContainer" target="1.5" />
-      <module name="Spring-02-DI-ConstractorInjection" target="1.5" />
+      <module name="Spring-02-DI-ConstractorInjection" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
