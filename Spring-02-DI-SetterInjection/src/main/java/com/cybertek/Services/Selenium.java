@@ -1,6 +1,7 @@
 package com.cybertek.Services;
 
-import com.cybertek.interfaces.Course;
+
+import com.cybertek.Interfeaces.Course;
 
 public class Selenium implements Course {
     public void getTeachingHours() {

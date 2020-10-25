@@ -6,11 +6,11 @@
 
     <bean id="java" class="com.cybertek.Services.Java">
         <property name="officeHours" ref="officeHours"/>
-
     </bean>
+    <bean id="selenium" class="com.cybertek.Services.Selenium"></bean>
 
-    <bean id="selenium" class="com.cybertek.Services.Selenium" ></bean>
     <bean id="officeHours" class="com.cybertek.Services.OfficeHours"></bean>
+
 
 
 
