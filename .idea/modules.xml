@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-02-DI-ConstractorInjection/Spring-02-DI-ConstractorInjection.iml" filepath="$PROJECT_DIR$/Spring-02-DI-ConstractorInjection/Spring-02-DI-ConstractorInjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-02-DI-SetterInjection/Spring-02-DI-SetterInjection.iml" filepath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/Spring-02-DI-SetterInjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-03-BeanScope-Singlton-Prototype/Spring-03-BeanScope-Singlton-Prototype.iml" filepath="$PROJECT_DIR$/Spring-03-BeanScope-Singlton-Prototype/Spring-03-BeanScope-Singlton-Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-04-BeanLifeCycle/Spring-04-BeanLifeCycle.iml" filepath="$PROJECT_DIR$/Spring-04-BeanLifeCycle/Spring-04-BeanLifeCycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-01-SpringContainer/spring-01-SpringContainer.iml" filepath="$PROJECT_DIR$/spring-01-SpringContainer/spring-01-SpringContainer.iml" />
     </modules>
   </component>

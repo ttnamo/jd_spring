@@ -10,6 +10,7 @@
         <module name="spring-01-SpringContainer" />
         <module name="Spring-02-DI-ConstractorInjection" />
         <module name="Spring-03-BeanScope-Singlton-Prototype" />
+        <module name="Spring-04-BeanLifeCycle" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="Spring-02-DI-ConstractorInjection" target="1.8" />
       <module name="Spring-02-DI-SetterInjection" target="1.8" />
       <module name="Spring-03-BeanScope-Singlton-Prototype" target="1.8" />
+      <module name="Spring-04-BeanLifeCycle" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
