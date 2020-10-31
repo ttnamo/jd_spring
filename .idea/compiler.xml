@@ -16,7 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="javaAnnotation-Autowired" target="1.5" />
+      <module name="javaAnnotation-Autowired" target="1.8" />
       <module name="spring-01-SpringContainer" target="1.5" />
       <module name="Spring-02-DI-ConstractorInjection" target="1.8" />
       <module name="Spring-02-DI-SetterInjection" target="1.8" />
